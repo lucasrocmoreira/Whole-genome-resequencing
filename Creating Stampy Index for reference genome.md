@@ -4,7 +4,7 @@
 
 ```
 conda -n stampy python=2.7
-source activate
+source activate stampy
 ```
 
 1) First you have to build a genome file:
